@@ -1,3 +1,3 @@
 # PrimerLaboratorio-Git
 Práctica de curso
-Este es un archivo del repositorio de prueba
+Este es un archivo de prueba del repositorio
